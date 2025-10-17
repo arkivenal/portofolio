@@ -13,7 +13,7 @@ const Trackeling = {
     tools: ["HTML", "CSS", "JavaScript", "Figma"],
     contributors: [
         {label: "Aaron Tanujaya Didi", url: ""},
-        {label: "Felicia Josephine", url: "https://portfolio-2025-xi-one.vercel.app/"},
+        {label: "Felicia Josephine", url: "https://felicia-josephine.vercel.app/"},
         {label: "Lisa Anastasya", url: "https://welcometolisanstsyaportfolio.vercel.app/"},
         {label: "Robert Jefferson Sugianto", url: "https://robert-jefferson-sugianto-portfolio.vercel.app/"},
         {label: "Vennycia Susanto", url: "https://arkivenal.netlify.app/"},

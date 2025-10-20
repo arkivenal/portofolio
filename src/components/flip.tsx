@@ -101,7 +101,7 @@ const Flip = () => {
                                     </div>
                                 </div>
                                 <div className={`flex items-center justify-center w-full sm:w-1/3 p-3 bg-gray-900 text-white text-center text-sm md:text-lg ${DMM.className} cursor-pointer hover:bg-gray-950 transition cursor-pointer`} onClick={(e) => e.stopPropagation()}>
-                                    <a href="/cv.pdf" target="_blank" rel="noopener norefferer" download>DOWNLOAD CV</a>
+                                    <a href="/cv.pdf" target="_blank" rel="noopener norefferer">VIEW CV</a>
                                 </div>       
                             </div>
 

@@ -16,7 +16,7 @@ const EndDate = {
         {label: "Jean Gabrielle Keyla Halim", url: ""},
         {label: "Jessica Alhena Joprang", url: "https://jessicajoprang.vercel.app/"},
         {label: "Jocelyn Abigail Mudana", url: ""},
-        {label: "Vennycia Susanto", url: "https://arkivenal.netlify.app/"},
+        {label: "Vennycia Susanto", url: "https://veun.netlify.app/"},
     ],
     images: [
         "/enddate_1.png",

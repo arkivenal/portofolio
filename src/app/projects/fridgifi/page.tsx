@@ -16,7 +16,7 @@ const FridgiFi = {
         {label: "Jessica Alhena Joprang", url: "https://jessicajoprang.vercel.app/"},
         {label: "Liona Loren", url: "https://lionaloren.vercel.app/"},
         {label: "Olivia Putri", url: ""},
-        {label: "Vennycia Susanto", url: "https://arkivenal.netlify.app/"},
+        {label: "Vennycia Susanto", url: "https://veun.netlify.app/"},
     ],
     images: [
         "/fridgifi_1.png",

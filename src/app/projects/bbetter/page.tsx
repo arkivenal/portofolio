@@ -14,7 +14,7 @@ const BBetter = {
     contributors: [      
         {label: "Lisa Anastasya", url: "https://welcometolisanstsyaportfolio.vercel.app/"},
         {label: "Robert Jefferson Sugianto", url: "https://robert-jefferson-sugianto-portfolio.vercel.app/"},
-        {label: "Vennycia Susanto", url: "https://arkivenal.netlify.app/"},
+        {label: "Vennycia Susanto", url: "https://veun.netlify.app/"},
     ],
     images: [
         "/bbetter_1.png",

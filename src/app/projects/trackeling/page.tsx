@@ -16,7 +16,7 @@ const Trackeling = {
         {label: "Felicia Josephine", url: "https://felicia-josephine.vercel.app/"},
         {label: "Lisa Anastasya", url: "https://welcometolisanstsyaportfolio.vercel.app/"},
         {label: "Robert Jefferson Sugianto", url: "https://robert-jefferson-sugianto-portfolio.vercel.app/"},
-        {label: "Vennycia Susanto", url: "https://arkivenal.netlify.app/"},
+        {label: "Vennycia Susanto", url: "https://veun.netlify.app/"},
     ],
     images: [
         "/trackeling_1.png",

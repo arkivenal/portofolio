@@ -15,7 +15,7 @@ const Ecotri = {
         {label: "Clementius Edbert William Wiguna", url: ""},
         {label: "Emily Wilkinson", url: "https://wilkinsonemily.github.io/emilywilkinson-portofolio.github.io/"},
         {label: "Kevin Khemanando Kan", url: ""},
-        {label: "Vennycia Susanto", url: "https://arkivenal.netlify.app/"},
+        {label: "Vennycia Susanto", url: "https://veun.netlify.app/"},
     ],
     images: [
         "/ecotri_1.png",

@@ -15,7 +15,7 @@ const Eatscapade = {
         {label: "Jessica Alhena Joprang", url: "https://jessicajoprang.vercel.app/"},
         {label: "Joachim Valerian Akhmal Hardanto", url: ""},
         {label: "Richael Cathleen Suhanda", url: ""},
-        {label: "Vennycia Susanto", url: "https://arkivenal.netlify.app/"},
+        {label: "Vennycia Susanto", url: "https://veun.netlify.app/"},
     ],
     images: [
         "/eatscapade_1.png",

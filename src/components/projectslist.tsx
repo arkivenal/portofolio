@@ -14,7 +14,7 @@ const ProjectList = () => {
           </div>
       
           <div className="w-full md:w-1/2 flex flex-col items-end justify-start">
-           <Link href="/projects/dclassics" passHref>
+           <Link href="/projects/veun" passHref>
               <h3 className="text-xl md:text-2xl text-right mb-2 hover:text-blue-600 transition">
                 VEUN / PORTOFOLIO
               </h3>
@@ -37,6 +37,9 @@ const ProjectList = () => {
               </span>
               <span className="rounded-4xl text-sm px-3 py-2 border text-zinc-900 border-zinc-900 transition-colors delay-80 duration-200 bg-zinc-100/50 hover:bg-gray-800/90 hover:border-zinc-900 hover:text-white">
                 CSS
+              </span>
+              <span className="rounded-4xl text-sm px-3 py-2 border text-zinc-900 border-zinc-900 transition-colors delay-80 duration-200 bg-zinc-100/50 hover:bg-gray-800/90 hover:border-zinc-900 hover:text-white">
+                Netlify
               </span>
               <span className="rounded-4xl text-sm px-3 py-2 border text-zinc-900 border-zinc-900 transition-colors delay-80 duration-200 bg-zinc-100/50 hover:bg-gray-800/90 hover:border-zinc-900 hover:text-white">
                 Web Development
